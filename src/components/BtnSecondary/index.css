@@ -1,0 +1,10 @@
+.btn-general {
+  background-color: #ffda00;
+  height: 50px;
+  border: none;
+  font-size: 16px; 
+  font-family: Open Sans; 
+  border-radius: 2px;
+  padding: 10px;
+  font-weight: 800;
+}
