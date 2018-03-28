@@ -1,3 +1,3 @@
-import B2 from './components/BtnSecondary'
-
-export const BtnSecondary = B2
+export {Button} from './components/Button';
+export {Typography} from './components/Typography';
+export {Link} from './components/Link';
