@@ -4,7 +4,7 @@ Esta guia de estilos está diseñada con el uso componentes React que pueden com
 
 ## Instalación
 
-Ejecute el siguiente comando usando npm:
+Ejecute el siguiente comando usando [npm](https://www.npmjs.com/package/laboratoria-style-guide "info en npm"):
 
 ~~~
 npm install laboratoria-style-guide
