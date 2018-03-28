@@ -1,7 +1,7 @@
 {
-  "name": "react-fancy-component",
+  "name": "laboratoria-style-guide",
   "version": "0.0.1",
-  "description": "Put a description here",
+  "description": "Es una guía de estilos específica para Laboratoria",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
@@ -16,8 +16,13 @@
     "start": "webpack --watch",
     "build": "webpack"
   },
+  "keywords": [
+    "styles",
+    "laboratoria",
+    "react"
+  ],
   "author": {
-    "name": "Rocci",
+    "name": "Rocci Escobar",
     "email": "roccisen.88@gmail.com"
   },
   "devDependencies": {
