@@ -77,7 +77,7 @@ Grosor fuente | bold
 
 ![Typography](assets/tipografias.png "Typography")
 
-```javascript
+```jsx
 ReactDOM.render(
   <div>
     <Typography h1 bitter> Título 1 </Typography>
